@@ -69,9 +69,7 @@ Some key insights provided by the dashboard include:
 - **Category Performance**: Recognize which product categories drive the most revenue and profit.
 - **Time-based Trends**: Observe how sales and profit fluctuate over time to forecast future sales.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
