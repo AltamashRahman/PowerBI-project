@@ -76,5 +76,5 @@ Some key insights provided by the dashboard include:
 For further questions or feedback, feel free to reach out:
 
 **Altamash Rahman**  
-**[LinkedIn](www.linkedin.com/in/altamash-ra)**  
+**[LinkedIn]([www.linkedin.com/in/altamash-ra](https://www.linkedin.com/in/altamash-rahman-b399b1178/))**  
 **Email: altamash6044@gmail.com**
