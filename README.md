@@ -7,7 +7,7 @@
 
 This repository contains a **Sales Dashboard for a Superstore** created in **Power BI**. The dashboard visualizes sales data to provide insights into sales trends, profit margins, regional performance, and customer demographics. It aims to help stakeholders make data-driven decisions to improve sales and operational efficiency.
 
-![Superstore Sales Dashboard](img/Superstoredashboard.png)
+![Superstore Sales Dashboard](Superstoredashboard.png)
 
 ## Files
 
